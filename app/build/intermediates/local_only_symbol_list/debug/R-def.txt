@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable producto
+id bt_detalles_compra
+id edt_detalles_cantidad
+id img_item_rv_producto
+id rv_productos
+id txt_cantidad_item_rv_producto
+id txt_descripcion_item_rv_producto
+id txt_detalles_compra
+id txt_nombre_item_rv_producto
+id txt_titulo_compra
+id txt_titulo_productos
+layout activity_detalles_productos
+layout activity_main
+layout item_rv_productos
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Promul_recyclerview_mercadona
+style Theme.Promul_recyclerview_mercadona
+xml backup_rules
+xml data_extraction_rules
